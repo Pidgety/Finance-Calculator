@@ -4,9 +4,9 @@
 
 This is a finance calculator program that allows the user to:
 
-* calculate simple interest
-* calculate compound interest
-* calculate the repayment period on a mortgage
+* calculate an investment's value after applying simple interest
+* calculate an investment's value after applying compound interest
+* calculate the monthly repayment amounts for a mortgage
 
 ## Download / Installation
 
