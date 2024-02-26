@@ -37,7 +37,7 @@ The program then calculates and displays the total amount (capital + interest) a
 
   Example:
 
-  <img src="image.png" width="400"> 
+  <img src="images/screenshot.png" width="400"> 
 
 ### Mortgage - calculate monthly repayment amounts
 
