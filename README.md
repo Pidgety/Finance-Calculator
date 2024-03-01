@@ -8,18 +8,35 @@ This is a finance calculator program that allows the user to:
 * calculate an investment's value after applying compound interest
 * calculate the monthly repayment amounts for a mortgage
 
-## Download / Installation
+## Technologies
 
-The only file required to run this program is finance_calculators.py
+This project was created using:
 
-The program uses the following standard Python libraries:
-* os
-* math
+* Python 3.12
 
 For information on installing Python 3, please see the link below:
 
 https://www.python.org/downloads/
 
+
+## Setup
+
+To run this project, save the following file locally:
+
+* finance_calculators.py
+
+To run the script:
+
+* open the terminal or command-line interface
+* navigate into the folder containing the file
+* for Windows, enter the following command :
+```
+python finance_calculators.py
+```
+* for Mac/Linux:
+```
+python3 finance_calculators.py
+```
 
 ## Instructions for use
 
