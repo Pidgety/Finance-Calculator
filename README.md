@@ -4,15 +4,19 @@
 
 This is a finance calculator program that allows the user to:
 
-* calculate an investment's value after applying simple interest
-* calculate an investment's value after applying compound interest
+* calculate an investment's value after applying simple or compound interest
 * calculate the monthly repayment amounts for a mortgage
 
-## Technologies
+It was originally a command line programme written as the first capstone
+project of my recent bootcamp. I later revisited the project after learning
+about Tkinter, and added a GUI.
+
+## Technologies / Dependencies
 
 This project was created using:
 
 * Python 3.12
+* Tkinter
 
 For information on installing Python 3, please see the link below:
 
@@ -52,9 +56,7 @@ The user is prompted to enter:
 
 The program then calculates and displays the total amount (capital + interest) after the given period.
 
-  Example:
-
-  <img src="images/screenshot.png" width="400"> 
+  <img src="images/interest_calc.png" width="400"> 
 
 ### Mortgage - calculate monthly repayment amounts
 
@@ -65,11 +67,7 @@ The user is prompted to enter:
 
 The program then calculates and displays the monthly repayment amount based on the information provided.
 
-## Potential improvements
-
-* include a wider range of calculators
-* add a graphical user interface
-* provide the option to enter the mortgage period in months or years
+ <img src="images/mortgage_calc.png" width="400"> 
 
 ## Learning
 
@@ -78,3 +76,5 @@ This was my first Python project, and was helpful in terms of consolidating my k
 * while loops
 * error handling
 * mathematical operations
+
+It later allowed me to practise creating graphical interfaces with Tkinter.
